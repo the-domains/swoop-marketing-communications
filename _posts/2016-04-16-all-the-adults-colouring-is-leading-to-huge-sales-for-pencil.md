@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-10T01:01:15.424Z'
+datePublished: '2016-08-10T01:01:15.474Z'
 sourcePath: >-
   _posts/2016-04-16-all-the-adults-colouring-is-leading-to-huge-sales-for-pencil.md
 inFeed: true
@@ -19,7 +19,7 @@ keywords:
   - basford
 related: []
 author: []
-dateModified: '2016-08-10T01:01:12.647Z'
+dateModified: '2016-08-10T01:01:13.973Z'
 title: All the adults colouring is leading to huge sales for pencil companies
 app_links: []
 publisher:
