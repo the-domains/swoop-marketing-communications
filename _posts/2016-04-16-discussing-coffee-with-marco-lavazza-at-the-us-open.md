@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-10T01:01:15.424Z'
+datePublished: '2016-08-10T01:01:15.477Z'
 sourcePath: _posts/2016-04-16-discussing-coffee-with-marco-lavazza-at-the-us-open.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/food-drink/lavazza-us-open-2015'
@@ -17,7 +17,7 @@ keywords:
   - every
 related: []
 author: []
-dateModified: '2016-08-10T01:01:13.365Z'
+dateModified: '2016-08-10T01:01:14.691Z'
 title: Discussing Coffee with Marco Lavazza at the US Open
 app_links: []
 publisher:
