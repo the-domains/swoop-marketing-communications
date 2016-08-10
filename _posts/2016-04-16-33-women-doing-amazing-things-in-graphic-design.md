@@ -20,7 +20,7 @@ author:
   - name: Rebecca Gross
     url: 'https://designschool.canva.com/blog/author/rebecca/'
     avatar: {}
-dateModified: '2016-08-10T01:01:13.246Z'
+dateModified: '2016-08-10T01:01:14.269Z'
 title: 33 Women Doing Amazing Things in Graphic Design
 app_links: []
 publisher:
